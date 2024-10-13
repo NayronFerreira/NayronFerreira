@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h3 align="left">About Me</h3>
+<h2 align="center">About Me</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<h3 align="left">Technical Stack</h3>
+<h2 align="center">Technical Stack</h2>
 
 ###
 
@@ -80,7 +80,7 @@
 
 <br clear="both">
 
-<h3 align="left">Contacts</h3>
+<h2 align="center">Contacts</h2>
 
 ###
 
