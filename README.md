@@ -10,21 +10,18 @@
 
 ###
 
-<p align="left">Engenheiro de Software / Desenvolvedor Back-End com experiência em APIs REST, SOAP, gRPC e GraphQL, utilizando linguagens como Java, Golang e Python.<br><br>Atualmente, trabalho na Consumidor Positivo, uma empresa que oferece soluções de crédito e renegociação de dívidas para milhões de brasileiros.</p>
+<img align="left" height="131" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+
+###
+
+<p align="left">Engenheiro de Software / Desenvolvedor Back-End com experiência em APIs REST, SOAP, gRPC e GraphQL, utilizando linguagens como Java, Golang e Python.<br><br><br>Atualmente, trabalho na Consumidor Positivo, uma empresa que oferece soluções de crédito e renegociação de dívidas para milhões de brasileiros.</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayronFerreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="130" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="334" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=weekly&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="343" alt="activity-graph graph"  />
 </div>
 
 ###
