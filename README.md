@@ -8,11 +8,11 @@
 
 ###
 
-<img align="left" height="162" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="left" height="144" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
-<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
+<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
 
 ###
 
