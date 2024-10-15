@@ -98,3 +98,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/NayronFerreira/NayronFerreira/output/snake.svg" alt="Snake animation" />
+
+###
