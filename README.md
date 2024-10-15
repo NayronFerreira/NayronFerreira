@@ -8,11 +8,11 @@
 
 ###
 
-<img align="left" height="144" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="left" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
-<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
+<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
 
 ###
 
@@ -21,6 +21,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="175" alt="languages graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="343" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h6 align="center">Contribuitions Animation</h6>
+
+###
+
+<img src="https://raw.githubusercontent.com/NayronFerreira/NayronFerreira/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -96,9 +104,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/NayronFerreira/NayronFerreira/output/snake.svg" alt="Snake animation" />
 
 ###
