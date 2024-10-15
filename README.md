@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
+<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br><br>Currently, I am working at Consumidor Positivo, a company that provides credit solutions and debt renegotiation services to millions of Brazilians.</p>
 
 ###
 
