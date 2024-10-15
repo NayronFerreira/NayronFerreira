@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="131" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="left" height="162" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
@@ -17,9 +17,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nightowl&hide_border=false&order=2" height="175" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="343" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="175" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="343" alt="activity-graph graph"  />
 </div>
 
 ###
