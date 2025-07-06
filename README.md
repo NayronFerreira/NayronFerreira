@@ -8,27 +8,41 @@
 
 ###
 
-<img align="left" height="125" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6Nnl1bWN0bTk2dXB4YmplNnV6M2piYWxhcGgzeGdrZDVkbnNzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"  />
 
 ###
 
-<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br><br>Currently, Currently, I am working at Mercado Livre, a leading e-commerce and financial technology company in Latin America, serving millions of users with innovative digital solutions. </p>
+<p align="left">Software Engineer / Back-End Developer with experience in APIs such as REST, SOAP, gRPC, and GraphQL, utilizing languages like Java, Golang, and Python.<br><br>Currently, I am working at Mercado Livre, a leading e-commerce and financial technology company in Latin America, serving millions of users with innovative digital solutions.</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="175" alt="languages graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="343" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=NayronFerreira&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="200" alt="streak graph" />
 </div>
 
 ###
 
-<h6 align="center">Contribuitions Animation</h6>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NayronFerreira&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&order=2" height="175" alt="languages graph" />
+</div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/NayronFerreira/NayronFerreira/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayronFerreira&radius=16&theme=chartreuse-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h6 align="center">Contributions Animation</h6>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NayronFerreira/NayronFerreira/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -38,9 +52,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
@@ -60,7 +72,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
@@ -90,7 +106,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/nayron-ferreira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
